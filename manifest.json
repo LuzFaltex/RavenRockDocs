@@ -1,0 +1,220 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/projects/ravenrockdocs/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contribute/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "contribute/index.html",
+          "hash": "uuoZMki0vaVaHeVyvaqLdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "contribute/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "contribute/toc.html",
+          "hash": "wH/jL28TWePDLPT3DX7pNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "SvNg7bCMyjhS6ILlB1IRww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "info/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/index.html",
+          "hash": "iUOJKG0A7cxqytM1nkF11w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "info/plugins/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/plugins/index.html",
+          "hash": "QgWUllNVKDEnjY88Rp7Z3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "info/plugins/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/plugins/toc.html",
+          "hash": "b84zk5/psIQCA6fB0jhsYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "info/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/toc.html",
+          "hash": "HrTtmRYRQgmuW+TvGOxl7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "lore/factions/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/factions/index.html",
+          "hash": "zrZcJg1V6UEy3zViv6IsMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "lore/factions/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/factions/toc.html",
+          "hash": "b84zk5/psIQCA6fB0jhsYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "lore/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/index.html",
+          "hash": "XE1N1mefE4v5i6sME9pLNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "lore/races.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/races.html",
+          "hash": "UDyZaGR4yzXSZfazmgE8wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "lore/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/toc.html",
+          "hash": "+g8bzQSsg25kB3JiYFp8rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "J8qDDFb7IbA59k7XHWouEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
