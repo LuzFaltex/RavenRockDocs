@@ -1,6 +1,6 @@
 # Raven Rock RP Documentation
 
-[![Build status](https://luzfaltex.visualstudio.com/RavenRock Docs/_apis/build/status/RavenRock%20Docs-CI)](https://luzfaltex.visualstudio.com/RavenRock Docs/_build/latest?definitionId=-1)
+[![Build status](https://luzfaltex.visualstudio.com/RavenRockDocs/_apis/build/status/RavenRock%20Docs-CI)](https://luzfaltex.visualstudio.com/RavenRockDocs/_build/latest?definitionId=-1)
 
 This repository contains operational documentation for Raven Rock RP.
 
