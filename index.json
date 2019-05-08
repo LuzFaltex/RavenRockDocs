@@ -1,37 +1,37 @@
 {
-  "lore/races.html": {
-    "href": "lore/races.html",
-    "title": "Races - Raven Rock RP | LuzFaltex Documentation",
+  "info/index.html": {
+    "href": "info/index.html",
+    "title": "Rules and Information - Raven Rock RP | RavenRockRP Lore and Documentation",
     "keywords": ""
   },
   "lore/index.html": {
     "href": "lore/index.html",
-    "title": "Lore Overview - Raven Rock RP | LuzFaltex Documentation",
+    "title": "Lore Overview - Raven Rock RP | RavenRockRP Lore and Documentation",
     "keywords": "Raven Rock RP Lore Coming soon!"
-  },
-  "info/plugins/index.html": {
-    "href": "info/plugins/index.html",
-    "title": "Plugins - Raven Rock RP | LuzFaltex Documentation",
-    "keywords": "Plugins Guide"
-  },
-  "contribute/index.html": {
-    "href": "contribute/index.html",
-    "title": "Contribution Guide - Raven Rock RP | LuzFaltex Documentation",
-    "keywords": "Contribution Thank you for your interest in contributing to our documentation! Before you begin, you should read our contributor guide . This guide provides information on how to make small edits, how to set up your computer for making bigger edits, how to use git , and style and voice principles. Once you're ready to contribute, simply make a pull request! You may be asked to sign our Contributor License Agreement, if you've not done so already. If this is required, our bot will guide you through how to do so. If you have any questions or comments, please let us know using our support site !"
-  },
-  "lore/factions/index.html": {
-    "href": "lore/factions/index.html",
-    "title": "Factions Overview - Raven Rock RP | LuzFaltex Documentation",
-    "keywords": "Factions Listing On this page, you'll find the major server factions."
-  },
-  "info/index.html": {
-    "href": "info/index.html",
-    "title": "Rules and Information - Raven Rock RP | LuzFaltex Documentation",
-    "keywords": ""
   },
   "index.html": {
     "href": "index.html",
-    "title": "Raven Rock RP Docs | LuzFaltex Documentation",
+    "title": "Raven Rock RP Docs | RavenRockRP Lore and Documentation",
     "keywords": "Welcome to LuzFaltex Docs Important While these pages are considered \"always under construction\", it is important to note that we are currently busy getting the initial documentation, site feel, branding, and other items up and running. Please be patient while this is happening. Though if you'd like to help out, take a look at our Contributing Guide . LuzFaltex has furnished this documentation site to hold information on Raven Rock RP, including its lore, plugin information, help guides, and policies. We post both internal and external documentation on this site in order to improve transparency, promote discussion, and enable contribution to improve these documents. Contributions provided by you are subject to the LuzFaltex Contributor License Agreement ."
+  },
+  "info/plugins/index.html": {
+    "href": "info/plugins/index.html",
+    "title": "Plugins - Raven Rock RP | RavenRockRP Lore and Documentation",
+    "keywords": "Plugins Guide"
+  },
+  "lore/factions/index.html": {
+    "href": "lore/factions/index.html",
+    "title": "Factions Overview - Raven Rock RP | RavenRockRP Lore and Documentation",
+    "keywords": "Factions Listing On this page, you'll find the major server factions."
+  },
+  "lore/races.html": {
+    "href": "lore/races.html",
+    "title": "Races - Raven Rock RP | RavenRockRP Lore and Documentation",
+    "keywords": ""
+  },
+  "contribute/index.html": {
+    "href": "contribute/index.html",
+    "title": "Contribution Guide - Raven Rock RP | RavenRockRP Lore and Documentation",
+    "keywords": "Contribution Thank you for your interest in contributing to our documentation! Before you begin, you should read our contributor guide . This guide provides information on how to make small edits, how to set up your computer for making bigger edits, how to use git , and style and voice principles. Once you're ready to contribute, simply make a pull request! You may be asked to sign our Contributor License Agreement, if you've not done so already. If this is required, our bot will guide you through how to do so. If you have any questions or comments, please let us know using our support site !"
   }
 }
