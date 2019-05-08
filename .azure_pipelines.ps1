@@ -16,7 +16,7 @@ Write-Output "Copy documentation into the repo"
 Copy-Item -Path ../docs/_site/* -Destination . -Recurse
 
 Write-Output "Build CNAME doc"
-Set-Content -Path "./CNAME" -Value "docs.luzfaltex.com`r`n"
+Set-Content -Path "./CNAME" -Value "docs.ravenrockrp.com`r`n"
 
 Write-Output "Push the new docs to the remote branch"
 git add .
