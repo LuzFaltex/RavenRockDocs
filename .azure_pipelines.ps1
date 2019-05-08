@@ -1,7 +1,7 @@
 Write-Output "Prepare Azure Git Instance"
 git config --global credential.helper store
 Add-Content "$HOME\.git-credentials" "https://$($env:github_access_token):x-oauth-basic@github.com`n"
-git config --global user.email $($env:github_email)
+git config --global user.email "$($env:github_email)"
 git config --global user.name "Foxtrek64"
 git config http.postBuffer 524288000
 
@@ -20,5 +20,5 @@ Set-Content -Path "./CNAME" -Value "docs.ravenrockrp.com`r`n"
 
 Write-Output "Push the new docs to the remote branch"
 git add .
-git commit -m "$($env:Build.SourceVersionMessage)"
+git commit -m "$env:Build.SourceVersionMessage"
 git push -f origin gh-pages
