@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Find an issue in the documentation? Let us know with this form!
 
 ---
 
