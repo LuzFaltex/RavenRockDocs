@@ -11,16 +11,8 @@ about: Have an idea for some new lore? Use this template.
 
 **Select one of the following categories (if you're unsure, pick the closest match or more than one)**
 
-Flora (plants), Fauna (animals), Trade and Commerce, Transportation, Weapons and Armor, Medicine, Religious matters and the Pantheon, Historical Lore, 
+Flora (plants), Fauna (animals), Trade and Commerce, Transportation, Weapons and Armor, Medicine, Religious matters and the Pantheon, Historical Lore, Other
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**How does this lore change and interact with existing lore? Does it involve changes to other existing lore?**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Describe your idea. The more information the better.**
