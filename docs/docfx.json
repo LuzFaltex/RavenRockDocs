@@ -22,12 +22,12 @@
       "overwrite": [],
       "externalReference": [],
       "globalMetadata": {
-        "_appTitle": "LuzFaltex Documentation",
+        "_appTitle": "RavenRock RP Documentation",
         "_appFooter": "Portions of this page are (c) LuzFaltex 2018-2019 // Powered by <a href=\"https://github.com/dotnet/docfx\">DocFX</a>",
         "_enableSearch": true,
-        "titleSuffix": "LuzFaltex Docs",
+        "titleSuffix": "RavenRockRP Docs",
         "feedback_system": "GitHub",
-        "feedback_github_repo": "LuzFaltex/docs",
+        "feedback_github_repo": "RavenRockRP/docs",
         "author": "Foxtrek_64"
         },
       "fileMetadata": {},
