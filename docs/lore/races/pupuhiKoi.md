@@ -7,7 +7,7 @@ author: Foxtrek64
 # The Pupuhi-Koi
 
 > [!NOTE]
-> The Pupuhi-Koi are a closed species, meaning applications for characters will not be accepted and you are not allowed to use the species to create your own character. Applications applying with Pupuhi-Koi characters will be rejected.
+> The Pupuhi-Koi are a closed species, meaning you are not allowed to use the species to create your own character, even outside of RavenRock. Applications applying with Pupuhi-Koi characters will be rejected.
 
 Pupuhi-Koi means "sharp fang" in Maori and is the name of the species of the gods on RavenRock. Every Pupuhi-Koi is a god, though unlike the gods of Greco-Roman cultures, not all gods have aspects. It is common for many minor gods to not have an aspect at all.
 
