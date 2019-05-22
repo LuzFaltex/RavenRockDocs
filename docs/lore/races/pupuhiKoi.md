@@ -23,10 +23,10 @@ Pupuhi-Koi concept art by Cocopet2. Copyright &copy; LuzFaltex 2019. All rights 
 
 ## Anatomy
 
-Heights: 4'5" - 6'5" (134 - 195cm)
-Weights: 175lbs (80kg) as young adults, up to 275lbs (125kg) as adults
-Lifespans: Unknown, but some individuals have lived thousands of years.
-Reproductive organs: All members of the species are capable of bearing young. This is done using an ovipositor and a pouch.
+* Heights: 4'5" - 6'5" (134 - 195cm)
+* Weights: 175lbs (80kg) as young adults, up to 275lbs (125kg) as adults
+* Lifespans: Unknown, but some individuals have lived thousands of years.
+* Reproductive organs: All members of the species are capable of bearing young. This is done using an ovipositor and a pouch.
 
 Most Pupuhi-Koi will express reverse countershading on their coat, meaning they have darker bellies and dual-tone fur. This can vary depending on lineage.
 
