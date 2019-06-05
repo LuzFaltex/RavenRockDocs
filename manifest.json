@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/index.html",
-          "hash": "i2MA88EYv4uRhrw+HatbvA=="
+          "hash": "wEu6FFRSpqjE5PS3yCZNZw=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Fsmf7sXdii7IWmBFydqr7Q=="
+          "hash": "INXGsFB0L/p+vRTUKRy2iQ=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "info/index.html",
-          "hash": "ZmbVesrwNw5OrvDtLkomPQ=="
+          "hash": "vGhUAAbZ8TPaugA+VU14Gw=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "info/plugins/index.html",
-          "hash": "2g0qWWdO/dhHbNRtJ8d47A=="
+          "hash": "GlImJqIBP1HheoPF9vTa3A=="
         }
       },
       "is_incremental": false,
@@ -85,15 +85,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "info/toc.md",
+      "type": "Conceptual",
+      "source_relative_path": "info/rules.md",
       "output": {
         ".html": {
-          "relative_path": "info/toc.html",
-          "hash": "HrTtmRYRQgmuW+TvGOxl7g=="
+          "relative_path": "info/rules.html",
+          "hash": "we07v0nHuiI+vOZgIRvDWg=="
         }
       },
       "is_incremental": false,
@@ -101,11 +98,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "lore/factions/index.md",
+      "source_relative_path": "info/staff.md",
       "output": {
         ".html": {
-          "relative_path": "lore/factions/index.html",
-          "hash": "uYbccktqJcwm0ORdXobK8A=="
+          "relative_path": "info/staff.html",
+          "hash": "sfHgv8L5AoIdZdNJdHjBvQ=="
         }
       },
       "is_incremental": false,
@@ -113,11 +110,23 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "lore/factions/toc.md",
+      "source_relative_path": "info/toc.md",
       "output": {
         ".html": {
-          "relative_path": "lore/factions/toc.html",
-          "hash": "b84zk5/psIQCA6fB0jhsYA=="
+          "relative_path": "info/toc.html",
+          "hash": "ua0DdAg7nzYn1/tFB6Tgig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "lore/history/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/history/index.html",
+          "hash": "whgbxuEDGm7BG9g1sO7L0w=="
         }
       },
       "is_incremental": false,
@@ -129,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "lore/index.html",
-          "hash": "vQMO8UxO5zH4iWig9HVJGA=="
+          "hash": "zgddfvyAH9w6LTfBEbQsKw=="
         }
       },
       "is_incremental": false,
@@ -137,23 +146,49 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "lore/races.md",
+      "source_relative_path": "lore/races/index.md",
       "output": {
         ".html": {
-          "relative_path": "lore/races.html",
-          "hash": "269PhrFzUiqq3VdlY9iDuQ=="
+          "relative_path": "lore/races/index.html",
+          "hash": "q9nnOFwnk5q8HaSCe8LvMw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "lore/races/pupuhiKoi.md",
+      "output": {
+        ".html": {
+          "relative_path": "lore/races/pupuhiKoi.html",
+          "hash": "HommqMZJzwBS2Ek0WF6tug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "lore/races/pupuhiKoiRef.png",
+      "output": {
+        "resource": {
+          "relative_path": "lore/races/pupuhiKoiRef.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "lore/toc.md",
       "output": {
         ".html": {
           "relative_path": "lore/toc.html",
-          "hash": "+g8bzQSsg25kB3JiYFp8rQ=="
+          "hash": "H24Py9vugB6x0Uqm9Vco6w=="
         }
       },
       "is_incremental": false,
@@ -186,6 +221,13 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -196,7 +238,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 7,
+          "total_file_count": 10,
           "skipped_file_count": 0
         }
       }
